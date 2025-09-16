@@ -1,0 +1,1 @@
+// Write a function limit(fn, n) that takes a function fn and a number n, and returns a new function that can only call fn at most n times. After the limit is reached, it should just return null.
