@@ -1,0 +1,1 @@
+// Create a function makeCounterBy(step) that returns a function. Each time the returned function is called, it should increase an internal counter by step and return the new value.
