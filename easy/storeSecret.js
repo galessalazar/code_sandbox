@@ -1,0 +1,1 @@
+// Create a function storeSecret(secret) that returns a function. Each time the returned function is called with a string, it should return true if the string matches secret and false otherwise.
