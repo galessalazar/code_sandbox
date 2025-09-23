@@ -1,0 +1,1 @@
+// Create a function createMultiplier(factor) that returns a function. Each time the returned function is called with a number, it should return that number multiplied by factor.
